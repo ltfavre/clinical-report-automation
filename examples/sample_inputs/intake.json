@@ -1,0 +1,11 @@
+{
+  "client_id": "A001",
+  "age": 32,
+  "gender_identity": "Nonbinary",
+  "employment_status": "Full-time",
+  "presenting_concerns": [
+    "difficulty sustaining attention",
+    "social fatigue",
+    "sensory sensitivities"
+  ]
+}
